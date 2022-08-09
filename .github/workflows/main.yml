@@ -21,5 +21,5 @@ jobs:
     
     - name: Deploy static site to S3 bucket
       run: |
-        - ls -lart
-        #- aws s3 sync ./* s3://github-actions-static-files --delete
+        ls -lart
+        # aws s3 sync ./* s3://github-actions-static-files --delete
