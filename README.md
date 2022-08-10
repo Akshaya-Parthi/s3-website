@@ -21,7 +21,7 @@ Create a folder named website and move the project files to it.
 
 Repeat 4 - 6 for the AWS_SECRET_ACCESS_KEY
 
-Create github actions workflow
+#Create github actions workflow
      Go to the project root directory and create a folder named .github and inside it, a folder named workflows. 
 
    mkdir -p .github/workflows
@@ -30,7 +30,7 @@ Create a file named main.yml inside the .github/workflows folder.
  
  	touch .github/workflows/main.yml
 
-Commit and push your changes:
+#Commit and push your changes:
 
 	git add .
   git commit -m “initial commit”
