@@ -34,9 +34,9 @@ Create a file named main.yml inside the .github/workflows folder.
 # Commit and push your changes:
 
 	git add .
-  git commit -m “initial commit”
+        git commit -m “initial commit”
   
-  git push -u origin main
+        git push -u origin main
 
 
 Go to your github repository and click on the Actions tab. From there, see all your triggered workflows and its status. 
