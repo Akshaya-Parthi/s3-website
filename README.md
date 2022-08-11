@@ -22,7 +22,8 @@ Create a folder named website and move the project files to it.
 Repeat 4 - 6 for the AWS_SECRET_ACCESS_KEY
 
 # Create github actions workflow
-     Go to the project root directory and create a folder named .github and inside it, a folder named workflows. 
+
+Go to the project root directory and create a folder named .github and inside it, a folder named workflows. 
 
    mkdir -p .github/workflows
  
