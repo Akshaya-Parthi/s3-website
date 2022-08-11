@@ -25,7 +25,7 @@ Repeat 4 - 6 for the AWS_SECRET_ACCESS_KEY
 
 Go to the project root directory and create a folder named .github and inside it, a folder named workflows. 
 
-   mkdir -p .github/workflows
+        mkdir -p .github/workflows
  
 Create a file named main.yml inside the .github/workflows folder.
  
